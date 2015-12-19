@@ -1,0 +1,105 @@
+
+Currently Loaded Modules:
+  1) lmod/5.8   2) StdEnv   3) intel/16.0   4) cilk/5.4.6
+
+
+
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+icc: command line warning #10122: overriding '-o3' with '-otest1'
+/scratch/4776469/iccqyYMT8.o: In function `main':
+mainDriver.cpp:(.text+0x282): undefined reference to `DataRetriever::DataRetriever(long&, long&, int&)'
+mainDriver.cpp:(.text+0x28e): undefined reference to `DataRetriever::initialization()'
+mainDriver.cpp:(.text+0x2ac): undefined reference to `DataRetriever::DataRetriever(char*)'
+mainDriver.cpp:(.text+0x301): undefined reference to `DataRetriever::~DataRetriever()'
+mainDriver.cpp:(.text+0x8aa): undefined reference to `DataRetriever::dataSize()'
+mainDriver.cpp:(.text+0xf34): undefined reference to `DataRetriever::~DataRetriever()'
+mainDriver.cpp:(.text+0x224c): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc6st6JD.o: In function `solution::objectiveFunction(double const&, double const&, double const&)':
+solution.cpp:(.text+0x991): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc6st6JD.o: In function `solution::objectiveFunctionW(double&, double&)':
+solution.cpp:(.text+0x1003): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc6st6JD.o: In function `solution::objectiveFunctionC(double&)':
+solution.cpp:(.text+0x/scratch/4776469/iccKLvQl8.o: In function `main':
+mainDriver.cpp:(.text+0x282): undefined reference to `1788): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc6st6JD.o: In function `solution::updateWij(long const&, long const&, double const&, double const&)':
+solution.cpp:(.text+0x23b9): undefined reference to `DataRetriever::observation(long, long)'
+DataRetriever::DataRetriever(long&, long&, int&)'
+mainDriver.cpp:(.text+0x28e): undefined reference to `/scratch/4776469/icc6st6JD.o: In function `solution::updateCij(long const&, long const&, double const&, double const&)':
+solution.cpp:(.text+0x2cb3): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc6st6JD.o: In function `DataRetriever::initialization()'
+mainDriver.cpp:(.text+0x2ac): undefined reference to `DataRetriever::DataRetriever(char*)'
+mainDriver.cpp:(.text+0x301): undefined reference to `DataRetriever::~DataRetriever()'
+solution::~solution()':
+solution.cpp:(.text+0x3005): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc6st6JD.o: In function `solution::~solution()':
+solution.cpp:(.text+0x3109): undefined reference to `DataRetriever::~DataRetriever()mainDriver.cpp:(.text+0x8aa): undefined reference to `DataRetriever::dataSize()'
+mainDriver.cpp:(.text+0xf34): undefined reference to `DataRetriever::~DataRetriever()'
+'
+/scratch/4776469/icc6st6JD.o: In function `solution::~solution()':
+solution.cpp:(.text+0x3215): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc6st6JD.o: In function `__sti__$E':
+solution.cpp:(.text+0x32c0): undefined reference to `DataRetriever::DataRetriever(long&, long&, int&)'
+mainDriver.cpp:(.text+0x224c): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc6st6JD.o: In function `solution::solution(DataRetriever&, int&, double&, long&, long&, int&)':
+solution.cpp:(.text+0x3342): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc6st6JD.o: In function `solution::solution(DataRetriever&, int&, double&, long&, long&, int&)':
+solution.cpp:(.text+0x3f2a): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc2BF4bD.o: In function `solution::objectiveFunction(double const&, double const&, double const&)':
+solution.cpp:(.text+0x991): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::objectiveFunctionW(double&, double&)':
+solution.cpp:(.text+0x1003): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::objectiveFunctionC(double&)':
+solution.cpp:(.text+0x1788): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::updateWij(long const&, long const&, double const&, double const&)':
+solution.cpp:(.text+0x23b9): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::updateCij(long const&, long const&, double const&, double const&)':
+solution.cpp:(.text+0x2cb3): undefined reference to `DataRetriever::observation(long, long)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::~solution()':
+solution.cpp:(.text+0x3005): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc2BF4bD.o: In function `solution::~solution()':
+solution.cpp:(.text+0x3109): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc2BF4bD.o: In function `solution::~solution()':
+solution.cpp:(.text+0x3215): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc2BF4bD.o: In function `__sti__$E':
+solution.cpp:(.text+0x32c0): undefined reference to `DataRetriever::DataRetriever(long&, long&, int&)'
+/scratch/4776469/icc2BF4bD.o: In function `solution::solution(DataRetriever&, int&, double&, long&, long&, int&)':
+solution.cpp:(.text+0x3342): undefined reference to `DataRetriever::~DataRetriever()'
+/scratch/4776469/icc2BF4bD.o: In function `solution::solution(DataRetriever&, int&, double&, long&, long&, int&)':
+solution.cpp:(.text+0x3f2a): undefined reference to `DataRetriever::~DataRetriever()'
+srun: error: cpn-f16-25: tasks 0,4: Exited with exit code 1
+srun: Terminating job step 4776469.1
+slurmstepd: *** STEP 4776469.1 ON cpn-f16-25 CANCELLED AT 2015-12-16T09:20:08 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: cpn-f16-25: tasks 1-3,5-15: Killed
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+slurmstepd: execve(): /gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/ParallelSMF_v3/./test1: No such file or directory
+srun: error: cpn-f16-25: tasks 0-15: Exited with exit code 2
+srun: Terminating job step 4776469.2

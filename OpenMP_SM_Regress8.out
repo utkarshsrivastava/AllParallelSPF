@@ -1,0 +1,69 @@
+Start Time = Mon Dec 14 20:25:19 EST 2015
+Launching ..
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+Data Genration section started ...
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+rows Set 
+Data from the folder was read successfully !
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 data is ready now!!!args values : 1 1 2 8 3 1 4 20 5 All Done!
+End Time = Mon Dec 14 20:27:11 EST 2015
+Elapsed Time = 112 seconds

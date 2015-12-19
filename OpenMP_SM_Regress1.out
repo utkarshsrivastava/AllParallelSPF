@@ -1,0 +1,229 @@
+Start Time = Tue Dec 15 04:25:04 EST 2015
+Launching ..
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+ USAGE : ./output 0 NUM_PROCS runMax K Q N or  USAGE : ./output 1 NUM_PROCS runMax K <dirpath> 
+Data Genration section started ...
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/: working dir
+if This is the first run, ignore the below error:No file found ..
+ wc -l "/gpfs/courses/cse603/students/ITS/ParallelSpraseMatrixFactorization/AlisOpenMP/NewVersion1/NetFlix/"/*.txt | grep -o '[0-9]\+ \|mv_[0-9]*' | sed ':a;N;$!ba;s/\nmv_/ /g' | head -n -1 > ./records.count
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+rows Set 
+Data from the folder was read successfully !
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+ dataSize :100489350
+rows Set 
+Data from the folder was read successfully !
+ dataSize :100489350
+ dataSize :100489350
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+data is ready now!!!2000
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+**************** OBSERVATION 
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+W and C initialized in 0.00802898 seconds
+data is ready now _ !!0
+W and C initialized in 0.00795913 seconds
+W and C initialized in 0.00777316 seconds
+data is ready now _ !!0
+data is ready now _ !!0
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+W and C initialized in 0.00834084 seconds
+data is ready now _ !!0
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+netflix flag : 1Initializing  W and C ... 
+_C started
+W and C initialized in 0.00992703 seconds
+data is ready now _ !!0
+W and C initialized in 0.008533 seconds
+data is ready now _ !!0
+W and C initialized in 0.00793219 seconds
+data is ready now _ !!0
+W and C initialized in 0.00807905 seconds
+data is ready now _ !!0
+W and C initialized in 0.00939417 seconds
+data is ready now _ !!0
+W and C initialized in 0.00947094 seconds
+data is ready now _ !!0
+W and C initialized in 0.00946808 seconds
+data is ready now _ !!0
+W and C initialized in 0.0093689 seconds
+data is ready now _ !!0
+W and C initialized in 0.00989103 seconds
+data is ready now _ !!0
+W and C initialized in 0.00937986 seconds
+data is ready now _ !!0
+W and C initialized in 0.009238 seconds
+data is ready now _ !!0
+W and C initialized in 0.00991988 seconds
+data is ready now _ !!0
+All Done!
+End Time = Tue Dec 15 04:28:20 EST 2015
+Elapsed Time = 196 seconds

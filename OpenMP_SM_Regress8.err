@@ -1,0 +1,21 @@
+
+Currently Loaded Modules:
+  1) lmod/5.8   2) StdEnv   3) intel/16.0   4) cilk/5.4.6
+
+
+
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+icc: command line warning #10122: overriding '-o3' with '-otest8'
+rm: cannot remove ‘./records.count’: No such file or directory
+rm: cannot remove ‘./records.count’: No such file or directory
+rm: cannot remove ‘./records.count’: No such file or directory
+rm: cannot remove ‘./records.count’: No such file or directory
+rm: cannot remove ‘./records.count’: No such file or directory
+srun: error: cpn-f16-08: tasks 0-7: Segmentation fault
+srun: Terminating job step 4776711.2
